@@ -14,4 +14,6 @@
 
 [Unity]14.SkyBox를 이용한 하늘 표현 => (https://goo.gl/qnxuqg)
 
+[Unity]15.블렌드 트리와 모션캡쳐 애니메이션 => (https://goo.gl/RsEJc4)
+
 [Unity]16.UI에 대해 알아보자 => (https://goo.gl/rKxLpR)
