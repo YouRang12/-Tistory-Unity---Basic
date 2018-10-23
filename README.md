@@ -23,3 +23,5 @@
 [Unity]18.씬 전환 해보기 => (https://goo.gl/QxeSfw)
 
 [Unity]19.PlayerPrefs를 활용한 데이터 저장 => (https://goo.gl/1WPj9G)
+
+[Unity]20.라이트 프로브를 이용한 조명효과 사용법 => (https://goo.gl/YbY8tB)
