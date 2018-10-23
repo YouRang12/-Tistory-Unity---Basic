@@ -21,3 +21,5 @@
 [Unity]17.파티클을 이용한 이펙트 효과 => (https://goo.gl/2s46tw)
 
 [Unity]18.씬 전환 해보기 => (https://goo.gl/QxeSfw)
+
+[Unity]19.PlayerPrefs를 활용한 데이터 저장 => (https://goo.gl/1WPj9G)
