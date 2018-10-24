@@ -47,3 +47,5 @@
 [Unity]20.라이트 프로브를 이용한 조명효과 사용법 => (https://goo.gl/YbY8tB)
 
 [Unity]21.오디오에 사운드 넣어보기 => (https://goo.gl/osZT6g)
+
+[Unity]22.iTween을 이용한 물체 이동기법 => (https://goo.gl/du5136)
