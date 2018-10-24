@@ -45,3 +45,5 @@
 [Unity]19.PlayerPrefs를 활용한 데이터 저장 => (https://goo.gl/1WPj9G)
 
 [Unity]20.라이트 프로브를 이용한 조명효과 사용법 => (https://goo.gl/YbY8tB)
+
+[Unity]21.오디오에 사운드 넣어보기 => (https://goo.gl/osZT6g)
