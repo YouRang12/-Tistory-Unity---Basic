@@ -49,3 +49,5 @@
 [Unity]21.오디오에 사운드 넣어보기 => (https://goo.gl/osZT6g)
 
 [Unity]22.iTween을 이용한 물체 이동기법 => (https://goo.gl/du5136)
+
+[Unity]23.구글 서비스 사용하기 - 앱 등록하기 => (https://goo.gl/cBrKr5)
