@@ -20,7 +20,7 @@
 
 [Unity]07.레거시 애니메이션 =>
 
-[Unity]08.총알 만들기 =>
+[Unity]08.총알 만들기 => (https://goo.gl/vrVB2V)
 
 [Unity]09.휴머노이드 애니메이션 => (https://goo.gl/uEFHv9)
 
