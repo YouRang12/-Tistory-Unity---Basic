@@ -24,7 +24,7 @@
 
 [Unity]09.휴머노이드 애니메이션 =>
 
-[Unity]10.유한상태머신 구현하기 => 
+[Unity]10.유한상태머신 구현하기 => (https://goo.gl/kZSTpe)
 
 [Unity]11.유니티 광고 넣기 => (https://goo.gl/9Y3Ep7)
 
