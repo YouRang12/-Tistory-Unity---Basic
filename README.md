@@ -51,3 +51,7 @@
 [Unity]22.iTween을 이용한 물체 이동기법 => (https://goo.gl/du5136)
 
 [Unity]23.구글 서비스 사용하기 - 앱 등록하기 => (https://goo.gl/cBrKr5)
+
+[Unity]24.구글서비스 사용하기 - 로그인 하기 => (https://goo.gl/as9qck)
+
+
