@@ -6,21 +6,21 @@
 
 -----------------------------------
 
-[Unity]01.Unity3d 설치하기 =>
+[Unity]01.Unity3d 설치하기 
 
-[Unity]02.인터페이스 알아보기 =>
+[Unity]02.인터페이스 알아보기 
 
-[Unity]03.객체 생성하기 =>
+[Unity]03.객체 생성하기
 
-[Unity]04.텍스처와 머티리얼 =>
+[Unity]04.텍스처와 머티리얼
 
-[Unity]05.3D 모델 불러오기 =>
+[Unity]05.3D 모델 불러오기 
 
-[Unity]06.캐릭터 이동 =>
+[Unity]06.캐릭터 이동 => (https://goo.gl/r5pkoP)
 
-[Unity]07.레거시 애니메이션 =>
+[Unity]07.레거시 애니메이션 => (https://goo.gl/YrCet1)
 
-[Unity]08.총알 만들기 => (https://goo.gl/vrVB2V)
+[Unity]08.총알 만들기 => (https://goo.gl/sDA5AK)
 
 [Unity]09.휴머노이드 애니메이션 => (https://goo.gl/uEFHv9)
 
