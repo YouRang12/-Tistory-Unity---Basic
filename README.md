@@ -22,7 +22,7 @@
 
 [Unity]08.총알 만들기 =>
 
-[Unity]09.휴머노이드 애니메이션 =>
+[Unity]09.휴머노이드 애니메이션 => (https://goo.gl/uEFHv9)
 
 [Unity]10.유한상태머신 구현하기 => (https://goo.gl/kZSTpe)
 
