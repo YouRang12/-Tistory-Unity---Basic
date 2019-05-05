@@ -54,7 +54,7 @@
 
 [Unity]24.구글서비스 사용하기 - 로그인 하기 => (https://goo.gl/as9qck)
 
-[Unity]25.구글서비스 사용하기 - 리더보드와 업적 =>
+[Unity]25.구글서비스 사용하기 - 리더보드와 업적 => (http://bitly.kr/OgwCw3)
 
 [Unity]26.Json을 이용한 저장과 불러오기 방법 => (https://goo.gl/tQxG5p)
 
