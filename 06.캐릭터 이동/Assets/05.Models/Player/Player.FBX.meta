@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: f3cd25b3bf53c4adaaf087d862e435e6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rthumb
+    100002: Rcalf
+    100004: Lforearm
+    100006: slade_mesh
+    100008: Rforearm
+    100010: Lthigh
+    100012: Rweaponholder
+    100014: stomach
+    100016: pelvis
+    100018: slade_meshLod2
+    100020: head
+    100022: neck
+    100024: chest
+    100026: Rfoot
+    100028: Ribs
+    100030: slade_meshLod1
+    100032: Rthigh
+    100034: Lfoot
+    100036: Lthumb
+    100038: Lwrist
+    100040: Lfingers
+    100042: Larm
+    100044: Lshoulder
+    100046: //RootNode
+    100048: Rfingers
+    100050: Rwrist
+    100052: Rarm
+    100054: Rshoulder
+    100056: Lcalf
+    100058: Hat_Target
+    400000: Rthumb
+    400002: Rcalf
+    400004: Lforearm
+    400006: slade_mesh
+    400008: Rforearm
+    400010: Lthigh
+    400012: Rweaponholder
+    400014: stomach
+    400016: pelvis
+    400018: slade_meshLod2
+    400020: head
+    400022: neck
+    400024: chest
+    400026: Rfoot
+    400028: Ribs
+    400030: slade_meshLod1
+    400032: Rthigh
+    400034: Lfoot
+    400036: Lthumb
+    400038: Lwrist
+    400040: Lfingers
+    400042: Larm
+    400044: Lshoulder
+    400046: //RootNode
+    400048: Rfingers
+    400050: Rwrist
+    400052: Rarm
+    400054: Rshoulder
+    400056: Lcalf
+    400058: Hat_Target
+    4300000: slade_mesh
+    4300002: slade_meshLod1
+    4300004: slade_meshLod2
+    4300006: assasin_mesh
+    4300008: sherrif_mesh
+    4300010: dancer_mesh
+    4300012: beast_mesh
+    4300014: widow_mesh
+    4300016: toltech_mesh
+    4300018: sara_mesh
+    4300020: mutant_mesh
+    4300022: toltech_meshLod1
+    4300024: toltech_meshLod2
+    4300026: sherrif_meshLod1
+    4300028: sherrif_meshLod2
+    4300030: assasin_meshLod1
+    4300032: assasin_meshLod2
+    4300034: beast_meshLod1
+    4300036: beast_meshLod2
+    4300038: mutant_meshLod1
+    4300040: mutant_meshLod2
+    4300042: sara_meshLod1
+    4300044: sara_meshLod2
+    4300046: widow_meshLod1
+    4300048: widow_meshLod2
+    4300050: dancer_meshLod1
+    4300052: dancer_meshLod2
+    7400002: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: slade_mesh
+    13700002: slade_meshLod2
+    13700004: slade_meshLod1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Defaultd
+    second: {fileID: 2100000, guid: 1b7c6da276d564d30b27a2b8d1b9b5dd, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/Lthigh
+        weight: 1
+      - path: pelvis/Lthigh/Lcalf
+        weight: 1
+      - path: pelvis/Lthigh/Lcalf/Lfoot
+        weight: 1
+      - path: pelvis/Rthigh
+        weight: 1
+      - path: pelvis/Rthigh/Rcalf
+        weight: 1
+      - path: pelvis/Rthigh/Rcalf/Rfoot
+        weight: 1
+      - path: pelvis/stomach
+        weight: 1
+      - path: pelvis/stomach/Ribs
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Lshoulder
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Lshoulder/Larm
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Lshoulder/Larm/Lforearm
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Lshoulder/Larm/Lforearm/Lwrist
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Lshoulder/Larm/Lforearm/Lwrist/Lfingers
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Lshoulder/Larm/Lforearm/Lwrist/Lthumb
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/neck
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/neck/head
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/neck/head/Hat_Target
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Rshoulder
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm/Rwrist
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm/Rwrist/Rfingers
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm/Rwrist/Rthumb
+        weight: 1
+      - path: pelvis/stomach/Ribs/chest/Rshoulder/Rarm/Rforearm/Rwrist/Rweaponholder
+        weight: 1
+      - path: slade_mesh
+        weight: 1
+      - path: slade_meshLod1
+        weight: 1
+      - path: slade_meshLod2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

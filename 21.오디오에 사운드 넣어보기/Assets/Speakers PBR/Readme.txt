@@ -1,0 +1,1 @@
+Hi, this set you can use for their projects in different genres. In these models, no animation, particle system. Their suggestions can u send me here vovaustimuk@gmail.com. View my other packages here https://assetstore.unity.com/publishers/26494

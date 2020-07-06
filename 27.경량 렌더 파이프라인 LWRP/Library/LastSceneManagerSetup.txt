@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Meshtint Free Boxing Ring Mega Toon Series/Scenes/Battle Arena.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
